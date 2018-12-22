@@ -1,0 +1,2 @@
+def RemoteControlConfig(self):
+        return
